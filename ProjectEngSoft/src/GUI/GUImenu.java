@@ -73,6 +73,8 @@ public class GUImenu {
 		lblMenu.setBounds(45, 11, 615, 127);
 		frame.getContentPane().add(lblMenu);
 		
+		System.out.println("ola como esta?");
+		
 		
 	}
 }
