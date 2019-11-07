@@ -72,5 +72,9 @@ public class GUImenu {
 		lblMenu.setFont(new Font("Lucida Console", Font.PLAIN, 35));
 		lblMenu.setBounds(45, 11, 615, 127);
 		frame.getContentPane().add(lblMenu);
+		
+		JLabel lblOla = new JLabel("ola");
+		lblOla.setBounds(280, 119, 46, 14);
+		frame.getContentPane().add(lblOla);
 	}
 }
