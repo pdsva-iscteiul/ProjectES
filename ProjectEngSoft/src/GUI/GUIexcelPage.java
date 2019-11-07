@@ -17,7 +17,7 @@ import javax.swing.Box;
 import java.awt.Dimension;
 import javax.swing.JTable;
 
-public class Gui {
+public class GUIexcelPage {
 
 	private JFrame frame;
 	private JTextField textField;
@@ -30,7 +30,7 @@ public class Gui {
 		EventQueue.invokeLater(new Runnable() {
 			public void run() {
 				try {
-					Gui window = new Gui();
+					GUIexcelPage window = new GUIexcelPage();
 					window.frame.setVisible(true);
 				} catch (Exception e) {
 					e.printStackTrace();
@@ -42,7 +42,7 @@ public class Gui {
 	/**
 	 * Create the application.
 	 */
-	public Gui() {
+	public GUIexcelPage() {
 		initialize();
 	}
 
