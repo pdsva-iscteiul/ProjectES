@@ -75,7 +75,7 @@ public class GUIprojectPresentation {
 		lblNewLabel.setBounds(159, 228, 587, 106);
 		frame.getContentPane().add(lblNewLabel);
 		
-		JButton btnNewButton = new JButton("NEXT");
+		JButton btnNewButton = new JButton("START");
 		btnNewButton.setForeground(new Color(105, 105, 105));
 		btnNewButton.setBackground(new Color(245, 245, 245));
 		btnNewButton.setFont(new Font("Dubai", Font.BOLD, 16));
