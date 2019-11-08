@@ -43,7 +43,7 @@ public class GUImenu {
 	 */
 	private void initialize() {
 		frame = new JFrame();
-		frame.getContentPane().setBackground(new Color(176, 224, 230));
+		frame.getContentPane().setBackground(new Color(248, 248, 255));
 		frame.setBounds(100, 100, 705, 551);
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		frame.getContentPane().setLayout(null);

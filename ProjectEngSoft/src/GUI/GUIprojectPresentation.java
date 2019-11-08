@@ -52,7 +52,7 @@ public class GUIprojectPresentation {
 		frame = new JFrame();
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		frame.getContentPane().setForeground(new Color(105, 105, 105));
-		frame.getContentPane().setBackground(new Color(135, 206, 235));
+		frame.getContentPane().setBackground(new Color(230, 230, 250));
 		frame.setBounds(100, 100, 936, 589);
 		frame.getContentPane().setLayout(null);
 		
