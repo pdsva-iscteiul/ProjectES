@@ -1,7 +1,6 @@
 package GUI;
 
-<<<<<<< HEAD
-=======
+
 import java.awt.EventQueue;
 
 import javax.swing.JFrame;
@@ -20,11 +19,9 @@ import java.awt.Color;
 import javax.swing.JButton;
 import javax.swing.JFileChooser;
 
->>>>>>> refs/heads/SegundoRamo
+
 public class GUIprojectPresentation {
 
-<<<<<<< HEAD
-=======
 	private JFrame frame;
 
 	/**
@@ -95,5 +92,5 @@ public class GUIprojectPresentation {
 			}
 		});
 	}
->>>>>>> refs/heads/SegundoRamo
+
 }
